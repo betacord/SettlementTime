@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.813,C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Project1.dproj=C:\Users\Tomek1\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.380,=C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.880,C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Unit1.dfm=C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.128,=C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.939,=C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.851,=C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.880,C:\Users\Tomek1\Documents\RAD Studio\Projects\rozliczenie godzin\Unit1.pas=C:\Users\Tomek1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
